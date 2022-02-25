@@ -1,24 +1,10 @@
-# README
+# Rails Project Starter repo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails project setup that uses [importmap](https://github.com/rails/importmap-rails) to pin 
+- React
+- React-dom
+- [HTM](https://github.com/developit/htm)
 
-Things you may want to cover:
 
-* Ruby version
+I based some of this starter from the following DHH [video](https://www.youtube.com/watch?v=k73LKxim6tw) where he demonstarted a technique that allows you to write JSX smillar code, but doesn't require a transpiller, meaing it could be import mapped directly to the page.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
