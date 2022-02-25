@@ -4,7 +4,7 @@ import h from "components/htm_create_element"
 export default class HelloWorld extends Component {
   render() {
     return h`
-      <h1>Hello World</h1>
+      <h1 className="text-blue-700">Hello World</h1>
     `
   }
 }
